@@ -1,0 +1,16 @@
+## Initial one-on-one meeting questions:
+- General:
+  - How's the first week been?
+  - What are you most excited about?
+  - Any surprises since you have joined, good or bad, which I should know about? 
+- More in depth:
+  - How do you like to be praised, in public or in private?
+  - What is your preferred method of communication for serious feedback? Do you prefer to get such feedback in writing so you have time to digest it, or are you comfortable with less formal verbal feedback?
+  - Are there any manager behaviors that you know you hate?
+  - How do I know when you’re in a bad mood or annoyed? Are there things that always put you in a bad mood that I should be aware of?
+- Career:
+  - What motivates you? What are your motivations?
+  - Do you have any clear career goals that I should know about so I can help you achieve them?
+- Most important:
+  - What is your favorite baked good/treat/snack? (e.g. cookies, croissant, peanut m&ms, etc.)
+  - What's the your current favorite tv show/album/artist/sports team/videogame?
