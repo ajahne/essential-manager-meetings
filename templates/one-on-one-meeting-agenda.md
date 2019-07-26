@@ -16,8 +16,8 @@ This is a "boilerplate" meeting agenda for one-on-one meetings.  Edit and adapt 
 - **Follow up with items on your agenda** (10 minutes)
   - Note, it is _their_ meeting and most of the time should be spent on their agenda
 - **Feedback** (10 minutes)
-  - Ask for feedback
-  - Provide feedback/coaching 
+  - [Ask for feedback](https://ajahne.github.io/blog/leadership/2019/02/28/getting-feedback-as-a-manager.html)
+  - Provide feedback/coaching)
     - (make sure you start with showing you can take feedback first before giving it)
 - **Follow up and next steps** (5 minutes)
   - outline and share next steps are neccessary
@@ -28,3 +28,4 @@ This is a "boilerplate" meeting agenda for one-on-one meetings.  Edit and adapt 
 - Meeting topics include: priorities, roadblocks, accomplishments, frustrations, feedback, and what is “top of mind” for your direct report; it is **not** a status update
 - Take notes (ask your direct report if they would like a copy of the notes); follow up
 - Switch the meetings up! (Go for a walk, have breakfast, grab a coffee, etc.)
+- [One-on-one Resources](https://github.com/ajahne/one-on-ones)
