@@ -5,7 +5,7 @@ This is a "boilerplate" meeting agenda for one-on-one meetings.  Edit and adapt 
 
 ## Agenda
 - **General Catch up** (5-10 minutes)
-  - How are you doing? How is the week going?
+  - How are you doing? How is the week going? How is that thing you love/mentioned/are interested in? 
   - _spend a few minutes getting to know your direct report better_
 - **Employee's Agenda** (30 minutes)
   - Questions I typically start with to get the ball rolling (use _one_, switch it up)
@@ -17,7 +17,7 @@ This is a "boilerplate" meeting agenda for one-on-one meetings.  Edit and adapt 
   - Note, it is _their_ meeting and most of the time should be spent on their agenda
 - **Feedback** (10 minutes)
   - [Ask for feedback](https://ajahne.github.io/blog/leadership/2019/02/28/getting-feedback-as-a-manager.html)
-  - Provide feedback/coaching)
+  - Provide feedback/coaching
     - (make sure you start with showing you can take feedback first before giving it)
 - **Follow up and next steps** (5 minutes)
   - outline and share next steps are neccessary
