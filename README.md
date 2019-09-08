@@ -1,5 +1,5 @@
 # Essential Manager Meetings
-The essential meetings to have with your team as a manager
+The essential meetings to have with your team as a manager.
 
 ## The Meetings
 - One-on-ones
