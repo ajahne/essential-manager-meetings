@@ -22,8 +22,8 @@
 
 - Support 
   - What makes 1:1s the most valuable for you?
-  - From your team? (this one is good if the 1:1 is with someone who manages people, but is typically relevant for IC’s, too)
-  - From your peers? (outside the team)
+  - What do you need from your team? (this one is good if the 1:1 is with someone who manages people, but is typically relevant for IC’s, too)
+  - What do you need from your peers? (outside the team)
 
 - Career and Goals:
   - What motivates you? What are your motivations?
