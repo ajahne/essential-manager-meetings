@@ -16,11 +16,11 @@
   - How can I help you when you’re grumpy?
   - How do I know when you’re in a bad mood or annoyed? Are there things that always put you in a bad mood that I should be aware of?
 
-Manager
+- Manager
   - Are there any manager behaviors that you know you hate?
   - What do you need from your manager?
 
-Support 
+- Support 
   - What makes 1:1s the most valuable for you?
   - From your team? (this one is good if the 1:1 is with someone who manages people, but is typically relevant for IC’s, too)
   - From your peers? (outside the team)
