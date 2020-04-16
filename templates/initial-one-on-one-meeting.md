@@ -30,8 +30,21 @@
   - What are your goals for this year? And for the next 3 months?
   - Do you have any clear career goals that I should know about so I can help you achieve them?
 
+- The way they work
+  - When do you feel the most productive? (time of day)
+  - Do you have a preference on when you would like to have 1-1 meetings? In the morning/afternoon, what works best for you (Managers, do not assume..ask!)
+  - How do I know when you are in the "zone"? (e.g. headphones on, slack messages on away") - I want to avoid interruptions when people are in their "maker mode"
+
 - Most important:
   - What is your favorite way to treat yourself?  
-  - What is your favorite baked good/treat/snack? (e.g. cookies, croissant, peanut m&ms, etc.)
   - What's the your current favorite tv show/album/artist/sports team/videogame/other?
   - What is your favorite emoji? 
+
+## Additional thoughts
+- This is a conversation, not a checklist.  These questions are meant to open up discussion and not about speeding through. For example, if you ask someone what motivates them and they talk about it, which leads to an example of a project that they are proud of...ask what made them proud...ask about the project!
+- To the above point, the ultimate goal is to understand your teammate better
+- There are a lot of questions here and if you are following the above points, it might take 1 or 2 (maybe 3) one-on-one sessions. That is FINE and I would encourage that! 
+  - If you have an hour for your one-on-one you can probably get through these questions in one session, but if you have 30 minutes, it may take a couple and that's cool! Again, its a conversation, not a checklist!
+- Ask these questions in your own words...for example, I may not ask "what makes your grumpy" word for word, instead I may say "So, how do I know when you are in a bad mood?", then talk about that and transition to "OK, so what are some things that may put you in a bad mood or make your grumpy".
+- 
+- This list is heavily inspired by Lara Hogan, Camille Fournier, and my own personal experience
