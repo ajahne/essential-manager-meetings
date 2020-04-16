@@ -33,5 +33,5 @@
 - Most important:
   - What is your favorite way to treat yourself?  
   - What is your favorite baked good/treat/snack? (e.g. cookies, croissant, peanut m&ms, etc.)
-  - What's the your current favorite tv show/album/artist/sports team/videogame?
+  - What's the your current favorite tv show/album/artist/sports team/videogame/other?
   - What is your favorite emoji? 
