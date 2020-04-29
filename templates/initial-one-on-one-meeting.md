@@ -46,5 +46,4 @@
 - There are a lot of questions here and if you are following the above points, it might take 1 or 2 (maybe 3) one-on-one sessions. That is FINE and I would encourage that! 
   - If you have an hour for your one-on-one you can probably get through these questions in one session, but if you have 30 minutes, it may take a couple and that's cool! Again, its a conversation, not a checklist!
 - Ask these questions in your own words...for example, I may not ask "what makes your grumpy" word for word, instead I may say "So, how do I know when you are in a bad mood?", then talk about that and transition to "OK, so what are some things that may put you in a bad mood or make your grumpy".
-- 
 - This list is heavily inspired by Lara Hogan, Camille Fournier, and my own personal experience
