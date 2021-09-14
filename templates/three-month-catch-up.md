@@ -5,7 +5,7 @@
 - What have you enjoyed working on?
 - What have you not enjoyed working?
 - What would you like to work on?
-- What is one thing you could improve about process/team/culture, what would it be?
+- If you could improve one thing about our processes/team/culture, what would it be?
 
 **Strengths** [list of 3 specific strengths, with examples]  
 - 1
