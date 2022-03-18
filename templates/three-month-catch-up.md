@@ -12,7 +12,7 @@
 - 2
 - 3
 
-**Areas of improvement** [list of 3 areas where this person can improve, with examples]
+**Areas of development** [list of 3 improvement areas, with examples]
 - 1
 - 2
 - 3
