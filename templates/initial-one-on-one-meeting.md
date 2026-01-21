@@ -21,7 +21,7 @@
 - What are your goals for this year? And for the next 3 months?
 - Do you have any clear career goals that I should know about so I can help you achieve them?
 
-## The way they work
+## The way you work
 - When do you feel the most productive? (time of day)
 - Do you have a preference on when you would like to have 1-1 meetings? In the morning/afternoon, what works best for you (Managers, do not assume..ask!)
 - How do I know when you are in the "zone"? (e.g. headphones on, slack messages on away") - I want to avoid interruptions when people are in their "maker mode"
